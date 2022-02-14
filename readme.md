@@ -38,6 +38,19 @@
 </table>
 
 <br>
+<table>
+  <tr>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="moisespe" /></p>
+    </td>
+    <td>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=cobalt" alt="moisespe" /></p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
@@ -100,11 +113,6 @@
 </table>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="moisespe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=cobalt" alt="moisespe" /></p>
-</center>
 <a href="https://www.buymeacoffee.com/moisesdev">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" data-canonical-href="https://www.buymeacoffee.com/moisesdev">
 </a>
