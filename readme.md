@@ -27,8 +27,6 @@
 - 👨‍💻 All of my projects are available at [#comming soon](#comming soon)
 
 - 💬 Ask me about **php java js**
-
-- 📫 How to reach me **jugarriza10@gmail.com**
     
     </td>
     <td>
@@ -47,9 +45,7 @@ Comming soon!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/moisespe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moisespe" height="30" width="40" /></a>
-<a href="https://twitter.com/@moiizes13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@moiizes13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moises-alvarado-89a2a448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moises-alvarado-89a2a448" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/585986392824348677"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="moisespe" width="35" /></a>
 </p>
 
 <table >
