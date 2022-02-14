@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe" alt="moisespe" /></a> </p>
 -->
 <center>
-<img src="https://github.com/oisespe/moisespe/raw/master/code.gif?raw=true" width="650" height="370">
+<img src="https://github.com/moisespe/moisespe/raw/master/code.gif?raw=true" width="650" height="370" alt="moisespe">
 </center>
 <br>
 - 🔭 I’m currently working on [apijwtlanguages](https://github.com/moisespe/apijwtlanguages)
