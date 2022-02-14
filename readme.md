@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Moises</h1>
+<h1 align="center" style="color:greeen;">Hi 👋, I'm Moises </h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisespe&label=Profile%20views&color=0e75b6&style=flat" alt="moisespe" /> </p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe" alt="moisespe" /></a> </p>
 -->
-<table>
+<table border="0">
   <tr>
     <td>
 - 🔭 I’m currently working on [apijwtlanguages](https://github.com/moisespe/apijwtlanguages)
@@ -32,6 +32,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+Comming soon!
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -41,7 +42,7 @@
 <a href="https://linkedin.com/in/moises-alvarado-89a2a448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moises-alvarado-89a2a448" height="30" width="40" /></a>
 </p>
 
-<table>
+<table >
   <tr>
     <td>
       <h3 align="left">Languages and Tools:</h3>
