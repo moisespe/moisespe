@@ -38,10 +38,6 @@
 <br>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-Comming soon!
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -113,3 +109,9 @@ Comming soon!
 <a href="https://www.buymeacoffee.com/moisesdev">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" data-canonical-href="https://www.buymeacoffee.com/moisesdev">
 </a>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+Comming soon!
+<!-- BLOG-POST-LIST:END -->
