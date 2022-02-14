@@ -6,7 +6,9 @@
     <td width="80%" align="center">
       <h2> Hi 👋, I'm Moises </h2>
       <h3>A passionate Fullstack developer from Perú</h3>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisespe&label=Profile%20views&color=0e75b6&style=flat" alt="moisespe" /> </p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=moisespe&label=Profile%20views&color=0e75b6&style=flat" alt="moisespe" /> </p>
+      <br>
+      <p align="center"><a href="https://discordapp.com/users/585986392824348677"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="moisespe" width="35" /></a></p>
     </td>
   </tr>
 </table>
@@ -39,10 +41,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discordapp.com/users/585986392824348677"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="moisespe" width="35" /></a>
-</p>
+
 
 <table >
   <tr>
