@@ -5,10 +5,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe" alt="moisespe" /></a> </p>
 -->
-<center>
-<img src="https://github.com/moisespe/moisespe/raw/main/code.gif?raw=true" alt="moisespe" width="450" />
-</center>
-<br>
+<table>
+  <tr>
+    <td>
 - 🔭 I’m currently working on [apijwtlanguages](https://github.com/moisespe/apijwtlanguages)
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -20,6 +19,16 @@
 - 💬 Ask me about **php java js**
 
 - 📫 How to reach me **jugarriza10@gmail.com**
+    
+    </td>
+    <td>
+    <img src="https://github.com/moisespe/moisespe/raw/main/code.gif?raw=true" alt="moisespe" width="450" />
+    </td>
+  </tr>  
+</table>
+
+<br>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
