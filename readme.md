@@ -16,43 +16,39 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe" alt="moisespe" /></a> </p>
 -->
-<table>
+<table height="300" style="border:none;">
   <tr>
     <td>
-- 🔭 I’m currently working on [apijwtlanguages](https://github.com/moisespe/apijwtlanguages)
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to collaborate on [laraup](https://github.com/devouzear/laraup)
-
-- 👨‍💻 All of my projects are available at [#comming soon](#comming soon)
-
-- 💬 Ask me about **php java js**
-    
+- 🔭 I’m currently working on (Generadocum)[https://github.com/GuaridaCode/appgeneradocum]
+      
+- 🌱 I’m currently develop tools open source basics.
+  
+- 👯 I’m looking to collaborate on anything project that help to learn.
+  
+- 👨‍💻 Anything of my projects are available at [#comming soon]
+  
+- 💬 Ask me about **Go Java Javascript Python PHP**
     </td>
     <td>
-    <img src="https://github.com/moisespe/moisespe/raw/main/code.gif?raw=true" alt="moisespe" width="450" />
+    <img src="https://github.com/moisespe/moisespe/raw/main/code.gif?raw=true" alt="moisespe" width="350" />
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    
+  </tr>
 </table>
 
 <br>
 <table>
   <tr>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="moisespe" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=buefy" alt="moisespe" /></p>
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=cobalt" alt="moisespe" /></p>
+      <p><img  src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=buefy&rank_icon=github" alt="moisespe" /></p>
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 
 <table >
@@ -103,18 +99,13 @@
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
     </td>
-    <td align="center">
-      <img src="http://images3.wikia.nocookie.net/__cb20121110063931/hunterxhunter/images/6/67/Hisoka_PR_Movie.png" />
-      <br>
-      <sub>There can always be a letter to solve problems.</sub>
-    </td>
   </tr>
 </table>
 
-
+<!--
 <a href="https://www.buymeacoffee.com/moisesdev">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" data-canonical-href="https://www.buymeacoffee.com/moisesdev">
-</a>
+</a> -->
 
 
 ### Blogs posts
