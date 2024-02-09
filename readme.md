@@ -8,7 +8,6 @@
       <h3>A passionate developer from Perú</h3>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=moisespe&label=Profile%20views&color=0e75b6&style=flat" alt="moisespe" /> </p>
       <br>
-    
     </td>
   </tr>
 </table>
