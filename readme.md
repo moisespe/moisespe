@@ -16,6 +16,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe&theme=buefy&column=7&margin-w=15&no-bg=true" alt="moisespe trophies" /></a>
+</p>
+
+---
+
 ## 🚀 Acerca de mí
 
 - 🔭 **Actualmente trabajando en:** [Generadocum](https://github.com/GuaridaCode/appgeneradocum) - Automatizando la generación de documentos.
@@ -28,15 +34,20 @@
 
 ## 🛠️ Stack Tecnológico
 
-### 🤖 AI-Assisted Dev & Tooling
+<details open>
+<summary><b>🤖 AI-Assisted Dev & Tooling</b></summary>
+<br>
 <p align="left">
   <a href="https://openai.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/> </a>
   <a href="https://anthropic.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic" width="45" height="45"/> </a>
   <a href="https://ollama.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="ollama" width="45" height="45"/> </a>
   <a href="https://github.com/features/copilot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a>
 </p>
+</details>
 
-### 🚀 DevOps & Cloud
+<details open>
+<summary><b>🚀 DevOps & Cloud</b></summary>
+<br>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a>
@@ -48,16 +59,22 @@
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a>
   <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helm/helm-icon.svg" alt="helm" width="45" height="45"/> </a>
 </p>
+</details>
 
-### 📊 Observability & SRE
+<details open>
+<summary><b>📊 Observability & SRE</b></summary>
+<br>
 <p align="left">
   <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="45" height="45"/> </a>
   <a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/> </a>
 </p>
+</details>
 
-### 💻 Lenguajes & Backend
+<details>
+<summary><b>💻 Lenguajes & Backend</b></summary>
+<br>
 <p align="left">
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
@@ -66,24 +83,45 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/> </a>
 </p>
+</details>
 
-### 🗄️ Bases de Datos
+<details>
+<summary><b>🗄️ Bases de Datos</b></summary>
+<br>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/> </a>
 </p>
+</details>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Métricas de Actividad
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=buefy&rank_icon=github" alt="Estadísticas de moisespe" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy&hide_border=true" alt="Streak Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=buefy" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moisespe/moisespe/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <p align="center">
