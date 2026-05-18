@@ -30,10 +30,10 @@
 
 ### 🤖 AI-Assisted Dev & Tooling
 <p align="left">
-  <a href="https://openai.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="openai" width="45" height="45"/> </a>
+  <a href="https://openai.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/> </a>
   <a href="https://anthropic.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic" width="45" height="45"/> </a>
   <a href="https://ollama.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="ollama" width="45" height="45"/> </a>
-  <a href="https://github.com/features/copilot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> </a>
+  <a href="https://github.com/features/copilot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a>
 </p>
 
 ### 🚀 DevOps & Cloud
@@ -42,17 +42,17 @@
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/> </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/> </a>
-  <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="45" height="45"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="githubactions" width="45" height="45"/> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a>
-  <a href="https://helm.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="45" height="45"/> </a>
+  <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helm/helm-icon.svg" alt="helm" width="45" height="45"/> </a>
 </p>
 
 ### 📊 Observability & SRE
 <p align="left">
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/> </a>
+  <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="45" height="45"/> </a>
+  <a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/> </a>
 </p>
@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/moisespe/moisespe/raw/main/code.gif?raw=true" alt="moisespe coding" width="100%" />
+  <img src="https://raw.githubusercontent.com/moisespe/moisespe/main/code.gif" alt="moisespe coding" width="100%" />
 </p>
