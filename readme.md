@@ -1,36 +1,40 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Moises%20A.&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Cloud+Engineer+🚀;DevOps+%26+SRE+Enthusiast+📊;AI-Assisted+Developer+🤖;Custom+Tooling+Developer+🛠️" alt="Typing SVG" />
+</p>
+
 <table width="100%">
   <tr>
-    <td width="30%">
-      <a href="https://app.daily.dev/devouzer"><img src="https://api.daily.dev/devcards/9dcd486ca36643a899c8a299d42597c2.png?r=doo" width="350" alt="moisespe"/></a>
+    <td width="30%" align="center">
+      <a href="https://app.daily.dev/devouzer"><img src="https://api.daily.dev/devcards/9dcd486ca36643a899c8a299d42597c2.png?r=doo" width="300" alt="moisespe"/></a>
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=moisespe&label=Vistas%20de%20Perfil&color=0e75b6&style=flat-square" alt="moisespe" />
     </td>
-    <td width="70%" align="center">
-      <h1> Hola 👋, Soy Moises </h1>
-      <h3>Cloud Engineer | DevOps & SRE | AI-Assisted Developer</h3>
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=moisespe&label=Profile%20views&color=0e75b6&style=flat" alt="moisespe" />
-      </p>
-      <div align="center">
-        <a href="https://linkedin.com/in/moisespe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <td width="70%">
+      <h3> 👋 ¡Hola! Soy Moises </h3>
+      <p>Un apasionado del ecosistema <b>Cloud Native</b> y la <b>Automatización Inteligente</b>. Mi enfoque es construir sistemas escalables, resilientes y eficientes, potenciando el ciclo de vida del software con Inteligencia Artificial.</p>
+      
+      <ul>
+        <li>🔭 <b>Trabajando en:</b> <a href="https://github.com/GuaridaCode/appgeneradocum">Generadocum</a></li>
+        <li>⚡ <b>Especialidad:</b> Infraestructura como Código, CI/CD y Tooling.</li>
+        <li>💬 <b>Hablemos de:</b> Go, K8s, Python y el futuro de DevOps con IA.</li>
+      </ul>
+      
+      <div align="left">
+        <a href="https://www.linkedin.com/in/moises-a-743996275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       </div>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moisespe&theme=buefy&column=7&margin-w=15&no-bg=true" alt="moisespe trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=moisespe&theme=buefy&column=7&margin-w=15&no-bg=true" alt="moisespe trophies" />
 </p>
 
----
-
-## 🚀 Acerca de mí
-
-- 🔭 **Actualmente trabajando en:** [Generadocum](https://github.com/GuaridaCode/appgeneradocum) - Automatizando la generación de documentos.
-- 🏗️ **Enfoque actual:** Construyendo infraestructura resiliente, pipelines de CI/CD eficientes y **herramientas de automatización personalizadas**.
-- 🤖 **Desarrollo Asistido por AI:** Integrando LLMs y agentes inteligentes en el flujo de trabajo de desarrollo y operaciones.
-- 🌱 **Aprendiendo:** Estrategias avanzadas de SRE, Caos Engineering y FinOps.
-- 💬 **Pregúntame sobre:** Go, Java, Python, Kubernetes y cómo potenciar el desarrollo con IA.
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠️ Stack Tecnológico
 
@@ -96,32 +100,33 @@
 </p>
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📈 Métricas de Actividad
+## 📊 Actividad en GitHub
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&theme=buefy&rank_icon=github" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisespe&layout=compact&theme=buefy" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&theme=buefy&rank_icon=github" alt="Estadísticas de moisespe" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisespe&layout=compact&theme=buefy" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-## 🐍 Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake" width="100%" />
 </p>
 
 <p align="center">
