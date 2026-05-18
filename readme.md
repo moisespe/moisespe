@@ -101,19 +101,19 @@
 ## 📈 Métricas de Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=buefy&hide_border=false" alt="Estadísticas de moisespe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&theme=buefy&rank_icon=github" alt="Estadísticas de moisespe" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=es&layout=compact&theme=buefy&hide_border=false" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisespe&layout=compact&theme=buefy" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true&hide_border=false" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
