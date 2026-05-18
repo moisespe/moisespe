@@ -38,10 +38,10 @@
 <summary><b>🤖 AI-Assisted Dev & Tooling</b></summary>
 <br>
 <p align="left">
-  <a href="https://openai.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/> </a>
-  <a href="https://anthropic.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic" width="45" height="45"/> </a>
-  <a href="https://ollama.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" alt="ollama" width="45" height="45"/> </a>
-  <a href="https://github.com/features/copilot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> </a>
+  <a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" /> </a>
+  <a href="https://anthropic.com/" target="_blank"> <img src="https://img.shields.io/badge/Anthropic-755139?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" /> </a>
+  <a href="https://ollama.com/" target="_blank"> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama" /> </a>
+  <a href="https://github.com/features/copilot" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="copilot" /> </a>
 </p>
 </details>
 
@@ -101,19 +101,19 @@
 ## 📈 Métricas de Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=buefy&rank_icon=github" alt="Estadísticas de moisespe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moisespe&show_icons=true&locale=es&theme=buefy&hide_border=false" alt="Estadísticas de moisespe" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisespe&theme=buefy&hide_border=false" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=en&layout=compact&theme=buefy" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moisespe&show_icons=true&locale=es&layout=compact&theme=buefy&hide_border=false" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisespe&theme=buefy&area=true&hide_border=false" alt="Activity Graph" width="100%" />
 </p>
 
 ---
