@@ -15,7 +15,7 @@
     </td>
     <td width="70%">
       <h3> 👋 ¡Hola! Soy Moises </h3>
-      <p>Un apasionado del ecosistema <b>Cloud Native</b> y la <b>Automatización Inteligente</b>. Mi enfoque es construir sistemas escalables, resilientes y eficientes, potenciando el ciclo de vida del software con Inteligencia Artificial.</p>
+      <p>Un apasionado del ecosistema de la <b>Infraestructura y Automatización Inteligente</b>. Mi enfoque es construir sistemas escalables, resilientes y eficientes, potenciando el ciclo de vida del software con Inteligencia Artificial.</p>
       
       <ul>
         <li>🔭 <b>Trabajando en:</b> <a href="https://github.com/GuaridaCode/appgeneradocum">Generadocum</a></li>
